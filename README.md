@@ -4,7 +4,9 @@ Converting Number amount to string , usefull for currencies.
 Here We can convert Number with decimal values into currency string
 
 HOW TO RUN :
-Run this File with CMD after java enabled machine
+1.Run this File with CMD after java enabled machine
+OR
+Copy Paste in eclipse any Java supported IDE available.
 
 TEST CASES :
 1.    2342 = two thousand three hundred forty two
