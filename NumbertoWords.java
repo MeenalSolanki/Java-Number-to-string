@@ -50,7 +50,7 @@ String decimal="";
                                         "Five", "Six", "Seven",  
                                             "Eight", "Nine"}; 
   
-    /* The first string is not used, it is to make  
+    /* to make  
         array indexing simple */
     String[] two_digits = new String[]{"", "Ten", "Eleven", "Twelve",  
                                         "Thirteen", "Fourteen", 
@@ -74,8 +74,7 @@ String decimal="";
         return; 
     } 
   
-    /* Iterate while num 
-        is not '\0' */
+    
     int x = 0; 
 	
     while (x < num.length)  
